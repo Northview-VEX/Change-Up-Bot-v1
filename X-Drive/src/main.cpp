@@ -16,7 +16,7 @@
 using namespace vex;
 
 //#region config_globals
-//vex == bad
+//Configure the motors properly in the robot configuration menu (on the right side menu)
 
 vex::motor      back_right_motor(vex::PORT1, vex::gearSetting::ratio18_1, true);
 vex::motor      back_left_motor(vex::PORT10, vex::gearSetting::ratio18_1, false);
@@ -27,7 +27,8 @@ vex::motor      front_left_motor(vex::PORT20, vex::gearSetting::ratio18_1, false
 vex::controller con(vex::controllerType::primary);
 //#endregion config_globals
 
-
+//Try to interpret this code.
+//Then, make an include file and src file for driver control, and reorganize the code there (like how we did over the summer)
 int main(void) {
     while(true) {
 
@@ -68,5 +69,4 @@ int main(void) {
     }
 }
 
-//Jeffery Is a bad Coder 
-//trying to comment
+//@avi no u :))
