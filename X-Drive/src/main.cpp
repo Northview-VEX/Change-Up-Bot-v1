@@ -73,16 +73,7 @@
 using namespace vex;
 
 //#region config_globals
-//Configure the motors properly in the robot configuration menu (on the right side menu
-//coment testubg 2
 
-vex::motor      back_right_motor(vex::PORT1, vex::gearSetting::ratio18_1, true);
-vex::motor      back_left_motor(vex::PORT10, vex::gearSetting::ratio18_1, false);
-vex::motor      front_right_motor(vex::PORT11, vex::gearSetting::ratio18_1, true);
-vex::motor      indexer(vex::PORT14, vex::gearSetting::ratio6_1, false);
-vex::motor      sorter(vex::PORT17, vex::gearSetting::ratio6_1, true);
-vex::motor      front_left_motor(vex::PORT20, vex::gearSetting::ratio18_1, false);
-vex::controller con(vex::controllerType::primary);
 //#endregion config_globals
 
 //Try to interpret this code.
