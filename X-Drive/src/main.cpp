@@ -1,3 +1,59 @@
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// back_right_motor     motor         1               
+// back_left_motor      motor         10              
+// front_right_motor    motor         11              
+// indexer              motor         14              
+// sorter               motor         17              
+// front_left_motor     motor         20              
+// Controller1          controller                    
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// back_right_motor     motor         1               
+// back_left_motor      motor         10              
+// front_right_motor    motor         11              
+// indexer              motor         14              
+// sorter               motor         17              
+// front_left_motor     motor         20              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// back_right_motor     motor         1               
+// back_left_motor      motor         10              
+// front_right_motor    motor         11              
+// indexer              motor         14              
+// sorter               motor         17              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// back_right_motor     motor         1               
+// back_left_motor      motor         10              
+// front_right_motor    motor         11              
+// indexer              motor         14              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// back_right_motor     motor         1               
+// back_left_motor      motor         10              
+// front_right_motor    motor         11              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// back_right_motor     motor         1               
+// back_left_motor      motor         10              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// back_right_motor     motor         1               
+// ---- END VEXCODE CONFIGURED DEVICES ----
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */

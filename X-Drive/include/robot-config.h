@@ -9,6 +9,7 @@ extern motor front_right_motor;
 extern motor indexer;
 extern motor sorter;
 extern motor front_left_motor;
+extern controller Controller1;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Text.
