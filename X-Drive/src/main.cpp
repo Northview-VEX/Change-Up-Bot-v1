@@ -16,7 +16,7 @@
 using namespace vex;
 
 //#region config_globals
-//vex == bad
+//Configure motors in robot configuration tab (on right)
 
 vex::motor      back_right_motor(vex::PORT1, vex::gearSetting::ratio18_1, true);
 vex::motor      back_left_motor(vex::PORT10, vex::gearSetting::ratio18_1, false);
