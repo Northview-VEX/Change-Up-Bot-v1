@@ -18,6 +18,8 @@ using namespace vex;
 //#region config_globals
 //vex == bad
 
+//I am now here too! Let's see if this works!
+
 vex::motor      back_right_motor(vex::PORT1, vex::gearSetting::ratio18_1, true);
 vex::motor      back_left_motor(vex::PORT10, vex::gearSetting::ratio18_1, false);
 vex::motor      front_right_motor(vex::PORT11, vex::gearSetting::ratio18_1, true);
@@ -68,4 +70,4 @@ int main(void) {
     }
 }
 
-//Jeffery Is a bad Coder 
+//Jeffery Is a bad Coder
